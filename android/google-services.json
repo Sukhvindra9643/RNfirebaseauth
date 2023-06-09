@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "401277392051",
+    "project_id": "coaching-app-f45d0",
+    "storage_bucket": "coaching-app-f45d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401277392051:android:cf1dbabef283f43cdf4cc6",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401277392051-59anv8r1du3djef58mqb0dafg1jfofad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatapp",
+            "certificate_hash": "8f69360e4f9e9d566148da43376aa1953728f169"
+          }
+        },
+        {
+          "client_id": "401277392051-cqtnlch9p1vcrajtjs5tjrig4fu5eefq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdPcLRs6Mdr57rDa4AF65Ysi-2ADQk1-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401277392051-1fc4vv4s7f26ce8rqaqdscu5v71qkga0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
